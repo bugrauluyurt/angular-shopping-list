@@ -10,3 +10,10 @@ h1:hover {
 
 p {
   color: black; }
+
+.collection-item span {
+  float: right;
+  font-size: 25px; }
+
+.collection-item span:hover {
+  color: #e56c78; }
