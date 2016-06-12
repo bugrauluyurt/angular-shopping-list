@@ -1,0 +1,15 @@
+.testing {
+  width: 71.42857%; }
+
+body {
+  background-color: black; }
+
+h1 {
+  transition: ease 2s;
+  color: white; }
+
+h1:hover {
+  color: orange; }
+
+p {
+  color: white; }
